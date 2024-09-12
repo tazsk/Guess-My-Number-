@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+
+.title {
+    color: white;
+}
+
+.secret {
+    height: 5rem;
+    width: 10rem;
+    background-color: lightgrey;
+    color: black;
+    font-size: larger;
+}
+
+.score, .highscore {
+    height: 2rem;
+    width: 4rem;
+    background-color: lightgrey;
+    color: black;
+    font-size: larger;
+}
+
+.status, .score_label {
+    color: white;
+}
